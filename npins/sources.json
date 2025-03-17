@@ -1,0 +1,29 @@
+{
+  "pins": {
+    "go_nix_example": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "mguentner",
+        "repo": "go_nix_example"
+      },
+      "branch": "master",
+      "revision": "8a3986b173dca15d4ddfaec186510ec624ff5a77",
+      "url": "https://github.com/mguentner/go_nix_example/archive/8a3986b173dca15d4ddfaec186510ec624ff5a77.tar.gz",
+      "hash": "0wnv5lk3f2qiblqs26zz3xwj810460y5wdvrjci4ksrbc5c7kdir"
+    },
+    "nixpkgs": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "nixos",
+        "repo": "nixpkgs"
+      },
+      "branch": "nixpkgs-unstable",
+      "revision": "573c650e8a14b2faa0041645ab18aed7e60f0c9a",
+      "url": "https://github.com/nixos/nixpkgs/archive/573c650e8a14b2faa0041645ab18aed7e60f0c9a.tar.gz",
+      "hash": "0qg99zj0gb0pc6sjlkmwhk1c1xz14qxmk6gamgfmcxpsfdp5vn72"
+    }
+  },
+  "version": 3
+}
